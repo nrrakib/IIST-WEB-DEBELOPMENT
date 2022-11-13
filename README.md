@@ -1,4 +1,4 @@
-# IIST-WEB-DEBELOPMENT
+# IIST-WEB-DEVELOPMENT
 ## I am a Web Developer
 ### My Skills:
 #### html,css,javascript
