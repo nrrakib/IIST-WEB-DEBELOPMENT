@@ -1,0 +1,109 @@
+.header{
+width: 1200px;
+margin: 0 auto;
+height: 100px;
+background: rgb(12, 242, 242);
+}
+.logo{
+padding: 20px;
+float: left;
+}
+.logo img{
+    width:70%;
+    height:65%;
+}
+.menu{
+float: right;
+padding-top: 15px;
+}
+.menu ul{
+list-style: none;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration:none;
+    font-size: 20px;
+    padding-right: 20px;
+}
+/* Header Part End */
+
+/* Slider Part Start */
+.slider{
+width: 1200px;
+height: 600px;
+margin: 0 auto;
+background: linear-gradient(rgb(197, 186, 186),rgba(23, 172, 231, 0.6)),url(./Image/undraw_Educator_re_ju47.png);
+background-repeat: no-repeat;
+background-size:fit;
+background-position:  center;
+
+}
+.slider h1{
+    position: absolute;
+top: 50%;
+left: 40%;
+color: rgb(6, 22, 236);
+}
+.slider p{
+    position: absolute;
+    top: 58%;
+    left: 22%;
+    color:rgb(66, 3, 3); 
+}
+.slider a{
+    position: absolute;
+    top: 70%;
+    left:47%;
+    text-decoration: none;
+    border: 1px saddlebrown;
+    padding: 10px 15px;
+    color: blue;
+    font-size: 15px;
+    background: rgb(240, 59, 74);
+    border-radius:20px;
+}
+/* Slider Part End */
+/* hero part start */
+.hero {
+    width: 1200px;
+    margin: 0 auto;
+}
+.service-title{
+    text-align: center;
+    padding-top: 20px;
+   
+}
+span{
+    color: brown;
+}
+.card{
+text-align: center;
+padding: 20px;
+background: rgb(34, 231, 238);
+border: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+.card img {
+    width: 50px;
+    height: 50px;
+    border: 20px rgb(0, 0, 0);
+    border-radius: 50%;
+}
+.card a{
+    position: inherit;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 5px 9px;
+    border: 1px saddlebrown;
+    border-radius: 20px;
+    background: red;
+}
+.service-box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    
+}
+/* hero part end */
