@@ -1,7 +1,7 @@
 # IIST-WEB-DEBELOPMENT
 ## I am a Web Developer
 ### My Skills:
-#### html,css,php,javascript
+#### html,css,javascript
           ~~~ html
              <html>
              <head>
